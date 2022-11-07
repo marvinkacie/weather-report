@@ -1,0 +1,36 @@
+.day {
+  width: 315px;
+  height: 125px;
+  background: #ecb390;
+  border: 2px solid black;
+
+  transform: skew(-20deg);
+  font-weight: lighter;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+.city {
+  display: block;
+  margin: auto;
+  text-align: center;
+  font-size: 26px;
+  background: #fcf8e8;
+  border: 2px solid black;
+  border-radius: 15px;
+  color: black;
+}
+h1 {
+  display: flex;
+}
+body {
+  background-color: #cee5d0;
+  font-family: "Zilla Slab", serif;
+}
+.title {
+  font-size: 32px;
+  text-align: center;
+  font-style: oblique;
+}
