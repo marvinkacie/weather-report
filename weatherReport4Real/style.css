@@ -3,8 +3,6 @@
   height: 125px;
   background: #ecb390;
   border: 2px solid black;
-
-  transform: skew(-20deg);
   font-weight: lighter;
   display: flex;
   flex-direction: row;
